@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddd683e43dbb3094ba14eaf5a61ba560, type: 3}
+  m_Name: Game_3
+  m_EditorClassIdentifier: 
+  TitleName: "\u98E2\u9913\u6436\u6642"
+  SceneName: TennisGame
+  MainsSreen: {fileID: 21300000, guid: f8c35a40dc8909249a61ed091a3cb08f, type: 3}
+  Content: "\u5728\u5C0F\u7CBE\u9748\u7684\u69CD\u4E0B\uFF0C\u5169\u4EBA\u4E00\u8D77\u5408\u4F5C\uFF0C\u76E1\u5FEB\u6253\u98DF\u7269\u7D66\u5927\u6D77\u602A\u5403\u5427\uFF01\u5426\u5247\u6C92\u5403\u98FD\u7684\u6D77\u602A\uFF0C\u4E0B\u4E00\u9910\u5C31\u662F\u4F60\u4E86\uFF01"
+  GameDetails: "\u5DE6\u908A\u73A9\u5BB6\u9808\u5C07\u98DF\u7269\u6253\u7D66\u6D77\u602A\u589E\u52A0\u98FD\u8DB3\u611F\uFF0C\u975E\u98DF\u7269\u7684\u7269\u54C1\u50B3\u7D66\u968A\u53CB\u4EE5\u514D\u589E\u52A0\u6C61\u6F2C\u3002\r\n\n\u53F3\u908A\u73A9\u5BB6\u9808\u53EF\u5C07\u6240\u6709\u7269\u54C1\u6253\u9032\u5149\u5708\u4E2D\u907F\u514D\u6C61\u6F2C\u7522\u751F\uFF0C\u98DF\u7269\u5247\u50B3\u7D66\u968A\u53CB\u53BB\u589E\u52A0\u6D77\u602A\u98FD\u8DB3\u611F\n\n\u4E00\u65E6\u4EFB\u4F55\u7269\u54C1\u6389\u843D\u6D77\u9762\u6703\u5F62\u6210\u6C61\u6F2C\uFF0C\u5C07\u9020\u6210\u73A9\u5BB6\u4E00\u5B9A\u6642\u9593\u7684\u79FB\u52D5\u7DE9\u901F\u6548\u679C\u3002\r\n\n\u6D77\u602A\u9054100%\u98FD\u8DB3\u6216\u5728\u6642\u9593\u7D50\u675F\u5F8C\u6709\u9054\u523085%\u4EE5\u4E0A\u98FD\u8DB3\u611F\u5373\u70BA\u904A\u6232\u52DD\u5229\uFF0C\u5426\u5247\u5931\u6557\u3002\r\n\n\u6BCF\u904E60\u79D2\u5DE6\u53F3\u73A9\u5BB6\u4F4D\u7F6E\u4E92\u63DB\u3002\r"
+  RoundSetup:
+    enabled: 0
+    DefaultValue: 1
+    miniValue: 3
+    maxValue: 9
+    IntervalValue: 2
+  TimedSetup:
+    enabled: 1
+    DefaultValue: 180
+    miniValue: 180
+    maxValue: 300
+    IntervalValue: 60

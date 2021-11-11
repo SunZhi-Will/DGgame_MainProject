@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddd683e43dbb3094ba14eaf5a61ba560, type: 3}
+  m_Name: Game_2
+  m_EditorClassIdentifier: 
+  TitleName: "\u5C04\u7BAD"
+  SceneName: ShootArchery
+  MainsSreen: {fileID: 21300000, guid: c379a8bc10119f64e920fe1701918da1, type: 3}
+  Content: "\u73A9\u5BB6\u4E92\u76F8\u5C0D\u5C04\uFF0C\u5C04\u4E2DBoss\u5F8C\u6703\u96A8\u6A5F\u4E1F\u7F6E\u9053\u5177\uFF0C\r\n\u64CA\u6BBABoss\u6216\u5C07\u5C0D\u65B9\u6253\u6557\u8005\u7372\u52DD\u3002"
+  GameDetails: "P1\u5229\u7528A\u5411\u5DE6\u79FB\u52D5\u3001D\u5411\u53F3\u79FB\u52D5\uFF0C\u63A7\u5236\u5DE6\u53F3\u79FB\u52D5\uFF0C\rC\u5411\u524D\u5C04\u7BAD\r\nP2\u5229\u7528\u2190\u5411\u4E0A\u79FB\u52D5\u3001\u2192\u5411\u4E0B\u79FB\u52D5\uFF0C\u63A7\u5236\u5DE6\u53F3\u79FB\u52D5\uFF0C\rO\u5411\u524D\u5C04\u7BAD\r\n\u5C0D\u65B9\u6C92\u8840\u6216\u6700\u5F8C\u4E00\u500B\u6253\u6B7B\u4E2D\u9593Boss\u7684\u7372\u52DD\r\n\n\u9053\u5177\uFF1A\r\n\u70B8\u5F48\uFF1A3\u79D2\u9418\u5F8C\u5728\u7BC4\u570D\u5167\u6216\u78B0\u5230\u5F8C\u5C0D\u73A9\u5BB6\u9020\u6210\u4E00\u9EDE\u50B7\u5BB3\r\n\u9AA8\u982D\uFF1A\u78B0\u5230\u5F8C\u9020\u6210\u4E00\u9EDE\u50B7\u5BB3\r\n\u860B\u679C\uFF1A\u78B0\u5230\u5F8C\u6062\u5FA9\u4E00\u9EDE\u50B7\u5BB3\r\n\u6CB9\uFF1A\u78B0\u5230\u5F8C3\u79D2\u9418\u5167\u5DE6\u53F3\u63A7\u5236\u76F8\u53CD\r\n\u528D\uFF1A\u4E0B\u4E00\u6B21\u50B7\u5BB3\u8B8A\u70BA2\u500D\r\n\r\n\u73A9\u5BB6\u521D\u59CB\u8840\u91CF5\r\nBoss\u521D\u59CB\u8840\u91CF10"
+  RoundSetup:
+    enabled: 1
+    DefaultValue: 1
+    miniValue: 1
+    maxValue: 1
+    IntervalValue: 0
+  TimedSetup:
+    enabled: 0
+    DefaultValue: 60
+    miniValue: 60
+    maxValue: 300
+    IntervalValue: 60

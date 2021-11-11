@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: f6d7a50f8ed13a24dbda57e21a25ed6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6280421563029466330
+    second: Particle1_0
+  - first:
+      213: 3498684689618317000
+    second: Particle1_1
+  - first:
+      213: -8387788349873314537
+    second: Particle1_2
+  - first:
+      213: 4340133203448594741
+    second: Particle1_3
+  - first:
+      213: 3663599757154274603
+    second: Particle1_4
+  - first:
+      213: -1943881567712790999
+    second: Particle1_5
+  - first:
+      213: -8045754735472744897
+    second: Particle1_6
+  - first:
+      213: -5193490193331569924
+    second: Particle1_7
+  - first:
+      213: -9132312311072960065
+    second: Particle1_8
+  - first:
+      213: -1301004411192732831
+    second: Particle1_9
+  - first:
+      213: -3070018102627076015
+    second: Particle1_10
+  - first:
+      213: 6032876287281384520
+    second: Particle1_11
+  - first:
+      213: 9185488540956159810
+    second: Particle1_12
+  - first:
+      213: -2957814565991035437
+    second: Particle1_13
+  - first:
+      213: 6282236219729614975
+    second: Particle1_14
+  - first:
+      213: -8204115790252304906
+    second: Particle1_15
+  - first:
+      213: 6266037086825385785
+    second: Particle1_16
+  - first:
+      213: 3432808779022757934
+    second: Particle1_17
+  - first:
+      213: 5252412735109112271
+    second: Particle1_18
+  - first:
+      213: -8509148463528345059
+    second: Particle1_19
+  - first:
+      213: -5073752361548191173
+    second: Particle1_20
+  - first:
+      213: 6677247406967861562
+    second: Particle1_21
+  - first:
+      213: -7410632055369976521
+    second: Particle1_22
+  - first:
+      213: -2488385550187438918
+    second: Particle1_23
+  - first:
+      213: 544309110214107608
+    second: Particle1_24
+  - first:
+      213: -8530769646328857841
+    second: Particle1_25
+  - first:
+      213: -2493919657125798379
+    second: Particle1_26
+  - first:
+      213: -521618889092504006
+    second: Particle1_27
+  - first:
+      213: 1682443167338375823
+    second: Particle1_28
+  - first:
+      213: -148258754581487337
+    second: Particle1_29
+  - first:
+      213: 909881712219591244
+    second: Particle1_30
+  - first:
+      213: 3505789908580215368
+    second: Particle1_31
+  - first:
+      213: 3415051219022661150
+    second: Particle1_32
+  - first:
+      213: 4503117722712794261
+    second: Particle1_33
+  - first:
+      213: -3891105960123496434
+    second: Particle1_34
+  - first:
+      213: 8992230643712691498
+    second: Particle1_35
+  - first:
+      213: 1088632693679136925
+    second: Particle1_36
+  - first:
+      213: -328556394677710058
+    second: Particle1_37
+  - first:
+      213: 7166951528084348621
+    second: Particle1_38
+  - first:
+      213: -6176338580956458934
+    second: Particle1_39
+  - first:
+      213: -8246549038599177443
+    second: Particle1_40
+  - first:
+      213: 990962616781982923
+    second: Particle1_41
+  - first:
+      213: -4629047680139062792
+    second: Particle1_42
+  - first:
+      213: -1684136227051069362
+    second: Particle1_43
+  - first:
+      213: -6485378173701036158
+    second: Particle1_44
+  - first:
+      213: 5027305130709488237
+    second: Particle1_45
+  - first:
+      213: 7070523661829294450
+    second: Particle1_46
+  - first:
+      213: 5183927987912278037
+    second: Particle1_47
+  - first:
+      213: -347128649931569268
+    second: Particle1_48
+  - first:
+      213: -8733837625102542390
+    second: Particle1_49
+  - first:
+      213: -1392051925327784999
+    second: Particle1_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Particle1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc2310f22a882750800000000000000
+      internalID: 6280421563029466330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particle1_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d350f936207eace0800000000000000
+      internalID: -1392051925327784999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particle1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71524aaafe6989b80800000000000000
+      internalID: -8387788349873314537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particle1_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318e6d47204b3c30800000000000000
+      internalID: 4340133203448594741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa9d436bd24146043a1e04c622076cf1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

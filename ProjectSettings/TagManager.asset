@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player 2
+  - Player 1
+  - Diuretics
+  - Stimulant
+  - Steroid
+  - Analgesics
+  - Diver
+  - FX
+  - World
+  - box
+  - ObstaclePint
+  - Bomb
+  - SwingBlock
+  - WoodPlank
+  - PropsPoint
+  - ImmutablePhysics
+  - pb
+  - Food
+  - Stain
+  - NotFood
+  - Bat
+  - Boat
+  - Boat2
+  - Batter
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player 1
+  - Player 2
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

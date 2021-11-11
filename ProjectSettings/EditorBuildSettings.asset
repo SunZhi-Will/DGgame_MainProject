@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: c4d5e225b463bee49844a00c04f6a7dc
+  - enabled: 1
+    path: Assets/_GameList/Diving/Diving/Scenes/Diving.unity
+    guid: cda2ccfabb36d9041a394349f73ecaa7
+  - enabled: 1
+    path: Assets/_GameList/TennisGame/Scenes/TennisGame.unity
+    guid: 5a8f1854a5833fa4e9f5558a89e20440
+  - enabled: 1
+    path: Assets/_GameList/Kendo/Scenes/Kendo.unity
+    guid: 4b47a5b57d6395c49a3c48f0aef83961
+  - enabled: 1
+    path: Assets/_GameList/Boxing/Scenes/Boxing.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_GameList/ShotArchery/Scenes/ShootArchery.unity
+    guid: 511f4cca6381dbf4aaf15810eb9a22dc
+  - enabled: 1
+    path: Assets/_GameList/Parkour/Scenes/Parkour.unity
+    guid: 6e7ebdc0628d7664ea5af1b473bd5393
+  - enabled: 1
+    path: Assets/_GameList/BaseBallGame.unity
+    guid: 1e490026088781143ae349806c7e5475
+  m_configObjects: {}
